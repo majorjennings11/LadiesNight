@@ -1,0 +1,165 @@
+@font-face{
+    font-family: 'Party';
+    src: url(PartyScript.ttf) format("truetype");
+}
+
+@font-face{
+    font-family: 'LemonMilkBold';
+    src: url(LemonMilkBold.otf) format("opentype");
+}
+
+@font-face{
+    font-family: 'UniSansThin';
+    src: url(Uni_Sans_Thin.otf) format("opentype");
+}
+
+h6{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'UniSansThin';
+    color: whitesmoke;
+}
+
+h2{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+
+h2{
+    text-shadow: 0 0 5px #582688, 0 0 15px #be2ed6
+}
+
+.titleimage{
+    position: relative;
+    width: 70%;
+    padding: 0;
+    margin-left: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.wine{
+    max-width: 200px;
+    float: right;
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+h1{
+    text-shadow: 0 0 5px #582688, 0 0 15px #FF0000
+}
+
+h1{
+    font-family: 'Party';
+    font-size: 99px;
+    color: whitesmoke;
+
+}
+
+body{
+    background-image: url('purparty.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+div.wehaves {
+    text-align: center;
+    color: whitesmoke;
+}
+
+div.wehaves{
+    text-shadow: 0 0 5px #582688, 0 0 15px #FF0000
+}
+
+.wehave{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+    display: inline-flex;
+}
+
+.wehave{
+    margin-right: 10px;
+    color: whitesmoke;
+    font-size: 32px;
+}
+
+#music{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 33;
+}
+
+#games{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 33;
+}
+
+#food{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 33;
+}
+
+p{
+    text-shadow: 0 0 5px black, 0 0 15px black
+}
+
+p{
+    text-align: center;
+    font-family: 'LemonMilkBold';
+    color: white;
+}
+
+div.generals{
+    text-shadow: 0 0 5px #582688, 0 0 15px #be2ed6
+}
+
+div.generals {
+    text-align: center;
+}
+
+.general{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+    display: inline-flex;
+}
+
+.general{
+    margin-right: 10px;
+    color: whitesmoke;
+}
+
+#date{
+    font-family: 'LemonMilkBold';
+    padding: 33;
+}
+
+#time{
+    font-family: 'LemonMilkBold';
+    padding: 33;
+}
+
+#dresscode{
+    font-family: 'LemonMilkBold';
+    padding: 33;
+}
+
+.topics{
+    color: black;
+}   
+
+h5{
+    text-align: center;
+    font-size: 25px;
+}
+
+h5{
+    text-shadow: 0 0 5px white, 0 0 15px black
+}
